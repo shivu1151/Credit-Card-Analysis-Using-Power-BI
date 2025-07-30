@@ -1,6 +1,6 @@
 # Credit-Card-Analysis-Using-Power-BI
 
-# Dashboard :
+### Dashboard :
 ### Credit Card Customer Report Dashboard
 ![Credit_Card_Analysis_Report_cc_page-0001](https://github.com/user-attachments/assets/476c7799-511b-4895-ab4d-1334e4953c7b)
 ### Credit Card Transaction Report Dashboard
