@@ -1,6 +1,7 @@
 # Credit-Card-Analysis-Using-Power-BI
 
 ### Dashboard Link : 
+![Credit_Card_Analysis_Report_cc_page-0001](https://github.com/user-attachments/assets/476c7799-511b-4895-ab4d-1334e4953c7b)
 
 ## Project Objectives:
 This Power Bi Dashboard's goal is to analyze the dataset and produce a thorough report that the stakeholder may utilize to get understanding.
